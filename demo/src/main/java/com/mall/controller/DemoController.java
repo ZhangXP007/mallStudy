@@ -13,6 +13,6 @@ public class DemoController {
     @RequestMapping("/index")
 
     public String index(){
-        return "hello SpringBoot2! + pc !";
+        return "hello SpringBoot2! + pc ! + jqd";
     }
 }
